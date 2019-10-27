@@ -1,0 +1,42 @@
+baseurl                  = "https://amalan-mahendran.netlify.com/"           # Your domain name. Must end with "/"
+languageCode             = "en-gb"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Amalan Mahendran."
+theme                    = "hugo-theme-sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+ignoreFiles              = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "letter.ico"
+    homepage             = "Start"                           # What to call the home page link
+    footerText           = "I am a Data Expert."
+
+# Metadata for Open Graph and Twitter
+    description          = "Minimalist Personal Website."               # Max 160 characters show in search results
+    images               = ["portray.jpg"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Amalan"
+
+[[params.mainMenu]]
+    link = "/posts"
+    text = "Advice/Rants."
+
+#[[params.mainMenu]]
+#    link = "/gallery"
+#    text = "gallery"
+
+[[params.mainMenu]]
+    link = "/portfolio"
+    text = "Sample."
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "Let me tell You."
+
+[imaging]
+    quality = 75
+
