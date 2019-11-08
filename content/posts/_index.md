@@ -9,3 +9,4 @@ Sorry I have not written anything here yet. Eventually I will and it will be a m
 Further, I should and will rant or advice regarding statistics or Data related topics. The amount of work done with related to data using statistical concepts and R programming gives me that right. I will be completely biased towards R.
 
 I promise you that atleast three posts will be posted by the end of this year, 2019.
+

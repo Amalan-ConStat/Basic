@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Amalan Mahendran.</title>
+    <link>/tags/post/</link>
+    <description>Recent content in Post on Amalan Mahendran.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 10 Nov 2019 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Untold University Teachings</title>
+      <link>/posts/adapt-to-uni/</link>
+      <pubDate>Sun, 10 Nov 2019 12:00:00 -0500</pubDate>
+      
+      <guid>/posts/adapt-to-uni/</guid>
+      <description>School education is way off considering receiving knowledge from the University. Before attending university the most recent way of life is Advanced Level. Which is simply cramming knowledge down your brain and mind for two years. Success of this process will be determined by the GCE AL Exam conducted at the country level. After a complicated process of calculating a metric called Z-score students are selected to the State Universities in Sri Lanka.</description>
+    </item>
+    
+  </channel>
+</rss>
